@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "flutter_practice2",
     "short_name": "flutter_practice2",
+=======
+    "name": "hello",
+    "short_name": "hello",
+>>>>>>> 8a90552f88f225da4b04a2503358380f9034f4a3
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

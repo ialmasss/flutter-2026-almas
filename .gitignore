@@ -45,4 +45,8 @@ app.*.map.json
 /android/app/release
 
 # Widget Preview related
+<<<<<<< HEAD
 .widget_preview/
+=======
+.widget_preview/
+>>>>>>> 8a90552f88f225da4b04a2503358380f9034f4a3

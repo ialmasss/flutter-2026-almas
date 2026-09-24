@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: flutter_practice2
+=======
+name: hello
+>>>>>>> 8a90552f88f225da4b04a2503358380f9034f4a3
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
